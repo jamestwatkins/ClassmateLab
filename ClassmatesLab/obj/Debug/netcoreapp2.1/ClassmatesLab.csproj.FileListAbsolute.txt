@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\bin\Debug\netcoreapp2.1\ClassmatesLab.deps.json
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\bin\Debug\netcoreapp2.1\ClassmatesLab.runtimeconfig.json
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\bin\Debug\netcoreapp2.1\ClassmatesLab.runtimeconfig.dev.json
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\bin\Debug\netcoreapp2.1\ClassmatesLab.dll
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\bin\Debug\netcoreapp2.1\ClassmatesLab.pdb
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\obj\Debug\netcoreapp2.1\ClassmatesLab.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\obj\Debug\netcoreapp2.1\ClassmatesLab.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\obj\Debug\netcoreapp2.1\ClassmatesLab.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\obj\Debug\netcoreapp2.1\ClassmatesLab.AssemblyInfo.cs
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\obj\Debug\netcoreapp2.1\ClassmatesLab.dll
+C:\Users\James\Desktop\Bootcamp\ClassmatesLab\ClassmatesLab\obj\Debug\netcoreapp2.1\ClassmatesLab.pdb
